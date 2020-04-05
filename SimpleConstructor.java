@@ -12,8 +12,8 @@ class SimpleConstructor
     
 
     public static void main(String[] args) {
-        SimpleConstructor constructor=new SimpleConstructor();
-
+        SimpleConstructor constructor=new SimpleConstructor();//when object is created constructor are intialize at that time.
+        
 
     }
 }
